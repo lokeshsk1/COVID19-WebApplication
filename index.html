@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        $(document).ready(function () {
+            $(".hamburger").click(function () {
+                $(".wrapper").toggleClass("collapse");
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+
+    <div class="wrapper">
+
+        <div class="top_navbar">
+            <div class="hamburger">
+                <div class="one"></div>
+                <div class="two"></div>
+                <div class="three"></div>
+            </div>
+            <div class="top_menu">
+                <div class="logo">
+                    Covid19
+                </div>
+                <ul>
+                    <li><a href="#">
+                            <i class="fas fa-search"></i>
+                        </a></li>
+                    <li><a href="#">
+                            <i class="fas fa-bell"></i>
+                        </a></li>
+                    <li><a href="#">
+                            <i class="fas fa-sign-out-alt"></i>
+                        </a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <ul>
+                <li><a href="#" class=active>
+                        <span class="icon"><i class="fas fa-tachometer-alt"></i></span>
+                        <span class="title">Dashboard</span>
+                    </a></li>
+
+                <li><a href="tweets.html">
+                        <span class="icon"><i class="fab fa-twitter"></i></span>
+                        <span class="title">Tweets</span>
+                    </a></li>
+            </ul>
+        </div>
+
+        <div class="main_container">
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/coronavirus.png" alt="selfreport"> <br>
+
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" id="cz" src="img/pandemic(1).png" alt="selfreport"> <br>
+
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/health-report.png" alt="selfreport"> <br>
+
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go3"
+                            href="https://covid.uhcitp.in/selfregister" target="_blank"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/stay-home.png" alt="selfreport"> <br>
+
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/phone-call.png" alt="selfreport"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/heartbeat.png" alt="selfreport"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/patient.png" alt="selfreport"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/dispensary.png" alt="selfreport"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/calendar.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/hospital(2).png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/give.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/fruit.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/flask.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/home.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/name.png" alt="epass"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go15"
+                            href="https://tnepass.tnega.org/#/user/pass" target="_blank"></a></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/money.png" alt="epass"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/food-donation.png" alt="epass"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/tracking.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go18"
+                            href="https://serviceonline.gov.in/tamilnadu/citizenApplication.html"
+                            target="_blank"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/coach.png" alt="epass"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go2" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/airplane.png" alt="epass"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go20"
+                            href="rtos.nonresidenttamil.org" target="blank"></a></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/hammer.png" alt="epass"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go21"
+                            href="https://www.tn.giv.in/go_view/dept/11" target="_blank"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/online-learning.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go22" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/youtube.png" alt="education"> <br>
+                    <!-- <p class="icon-label">Online Education</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go23" href="
+                            https://stopcorona.tn.gov.in/health-advisory-videos" target="_blank"></a></i>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="items">
+                    <img class="icons" src="img/info.png" alt="epass"> <br>
+                    <!-- <p class="icon-label">Self Report</p> -->
+                    <div class="goicon"> <a class="fa fa-chevron-circle-right fa-3x" id="go24" href="#"></a></i>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+
+</html>

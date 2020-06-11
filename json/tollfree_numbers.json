@@ -1,0 +1,226 @@
+{
+    "tollnumbers": [
+        {
+            "s.no": "1",
+            "district": "Ariyalur",
+            "emergency_number": "04329-1077",
+            "landline_number": "04329-228709"
+        },
+        {
+            "s.no": "2",
+            "district": "Chennai",
+            "emergency_number": "044-1077",
+            "landline_number": "044-25243454"
+        },
+        {
+            "s.no": "3",
+            "district": "Coimbatore",
+            "emergency_number": "0422-1077",
+            "landline_number": "0422-2301114"
+        },
+        {
+            "s.no": "4",
+            "district": "Cuddalore",
+            "emergency_number": "04142-1077",
+            "landline_number": "04142-220700"
+        },
+        {
+            "s.no": "5",
+            "district": "Dharmapuri",
+            "emergency_number": "04342-1077",
+            "landline_number": "04342-230562/234500"
+        },
+        {
+            "s.no": "6",
+            "district": "Dindugul",
+            "emergency_number": "0451-1077",
+            "landline_number": "0451-2460320"
+        },
+        {
+            "s.no": "7",
+            "district": "Erode",
+            "emergency_number": "0424-1077",
+            "landline_number": "0424-2260211"
+        },
+        {
+            "s.no": "8",
+            "district": "Kancheepuram",
+            "emergency_number": "044-1077",
+            "landline_number": "044-27237107/27237207"
+        },
+        {
+            "s.no": "9",
+            "district": "Kanyakumari",
+            "emergency_number": "04652-1077",
+            "landline_number": "04652-231077"
+        },
+        {
+            "s.no": "10",
+            "district": "Karur",
+            "emergency_number": "04324-1077",
+            "landline_number": "04324-256306"
+        },
+        {
+            "s.no": "11",
+            "district": "Krishnagiri",
+            "emergency_number": "04343-1077",
+            "landline_number": "04343-234424"
+        },
+        {
+            "s.no": "12",
+            "district": "Madurai",
+            "emergency_number": "0452-1077",
+            "landline_number": "0452-2546160"
+        },
+        {
+            "s.no": "13",
+            "district": "Nagapattinam",
+            "emergency_number": "04365-1077",
+            "landline_number": "04365-252500"
+        },
+        {
+            "s.no": "14",
+            "district": "Namakkal",
+            "emergency_number": "04286-1077",
+            "landline_number": "04286-281425/8220402437"
+        },
+        {
+            "s.no": "15",
+            "district": "Perambalur",
+            "emergency_number": "04328-1077",
+            "landline_number": "04328-224455"
+        },
+        {
+            "s.no": "16",
+            "district": "Pudukottai",
+            "emergency_number": "04322-1077",
+            "landline_number": "04322-222207"
+        },
+        {
+            "s.no": "17",
+            "district": "Ramanathapuram",
+            "emergency_number": "04567-1077",
+            "landline_number": "04567-230060"
+        },
+        {
+            "s.no": "18",
+            "district": "Salem",
+            "emergency_number": "0427-1077",
+            "landline_number": "0427-2452202"
+        },
+        {
+            "s.no": "19",
+            "district": "Sivaganga",
+            "emergency_number": "04575-1077",
+            "landline_number": "04575-246233"
+        },
+        {
+            "s.no": "20",
+            "district": "Thanjavur",
+            "emergency_number": "04362-1077",
+            "landline_number": "04362-230121"
+        },
+        {
+            "s.no": "21",
+            "district": "The Nilgiris",
+            "emergency_number": "0423-1077",
+            "landline_number": "0423-2444012/2444013"
+        },
+        {
+            "s.no": "22",
+            "district": "Theni",
+            "emergency_number": "04546-1077",
+            "landline_number": "04546-261093"
+        },
+        {
+            "s.no": "23",
+            "district": "Tiruvallur",
+            "emergency_number": "044-1077",
+            "landline_number": "044-27664177/27666746"
+        },
+        {
+            "s.no": "24",
+            "district": "Tiruppur",
+            "emergency_number": "0421-1077",
+            "landline_number": "0421-2971199"
+        },
+        {
+            "s.no": "25",
+            "district": "Tiruvarur",
+            "emergency_number": "04366-1077",
+            "landline_number": "04366-226623"
+        },
+        {
+            "s.no": "26",
+            "district": "Thoothukudi",
+            "emergency_number": "0461-1077",
+            "landline_number": "0461-2340101"
+        },
+        {
+            "s.no": "27",
+            "district": "Trichy",
+            "emergency_number": "0431-1077",
+            "landline_number": "0431-2418995"
+        },
+        {
+            "s.no": "28",
+            "district": "Tirunelveli",
+            "emergency_number": "0462-1077",
+            "landline_number": "0462-2501070/2501012"
+        },
+        {
+            "s.no": "29",
+            "district": "Tiruvannamalai",
+            "emergency_number": "04175-1077",
+            "landline_number": "04175-232377"
+        },
+        {
+            "s.no": "30",
+            "district": "Vellore",
+            "emergency_number": "0416-1077",
+            "landline_number": "0416-2258016"
+        },
+        {
+            "s.no": "31",
+            "district": "Villupuram",
+            "emergency_number": "04146-1077",
+            "landline_number": "04146-223265"
+        },
+        {
+            "s.no": "32",
+            "district": "Virudhunagar",
+            "emergency_number": "04562-1077",
+            "landline_number": "04562-252601/252017"
+        },
+        {
+            "s.no": "33",
+            "district": "Chengalpattu",
+            "emergency_number": "044-1077",
+            "landline_number": "044-27237107/27237207"
+        },
+        {
+            "s.no": "34",
+            "district": "Ranipet",
+            "emergency_number": "0416-1077",
+            "landline_number": "0416-2258016"
+        },
+        {
+            "s.no": "35",
+            "district": "Tirupattur",
+            "emergency_number": "04179-1077",
+            "landline_number": "04179-222111"
+        },
+        {
+            "s.no": "36",
+            "district": "Tenkasi",
+            "emergency_number": "0462-1077",
+            "landline_number": "0462-2501070/2501012"
+        },
+        {
+            "s.no": "37",
+            "district": "Kallakurichi",
+            "emergency_number": "04151-1077",
+            "landline_number": "04151-220000"
+        }
+    ]
+}

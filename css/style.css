@@ -214,7 +214,7 @@ body{
   width: 100px;
 }
 
- .icons
+.icons
 {
   width: 75px;
   height: 75px;
@@ -232,4 +232,6 @@ p{
   color: linear-gradient(to right, #feb47b, #ff7e5f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+
+
 

@@ -150,7 +150,7 @@ body{
 
 } 
 
-.wrapper .main_container .item{
+.wrapper .main_container .items{
   background: #fff;
   margin: 10px;
   padding: 15px;
@@ -159,17 +159,18 @@ body{
   display: flex;
   width: 200px;
   height: 220px;
-  justify-content: center;
-  
+  flex-direction: column;
   border-radius: 6px; 
   transition: all 0.7s ease;
-  
-  
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+
 }
 
-.wrapper .item:hover{
+.wrapper .items:hover{
   box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-  margin: 40px;
+  margin: 13px;
 } 
 
 .wrapper.collapse .sidebar{
@@ -213,51 +214,22 @@ body{
   width: 100px;
 }
 
-.icons
+ .icons
 {
   width: 75px;
   height: 75px;
-  display: flex;
-  justify-content: center;
+ 
 }
 
-.goicon {
-  
-  display: flex;
-  justify-content: center;
+p{
+  font-weight:600;
+  color: #2e4ead;
 }
 
+#go1,#go2,#go3,#go4,#go5,#go6,#go7,#go8,#go9,#go10,#go11,#go12,#go13,#go14,#go15,#go16,#go16,#go17,#go18,#go19,#go20,#go21,#go22,#go23,#go24{
+  color: #ff7e5f;  /* fallback for old browsers */
+  color: -webkit-linear-gradient(to right, #feb47b, #ff7e5f);  /* Chrome 10-25, Safari 5.1-6 */
+  color: linear-gradient(to right, #feb47b, #ff7e5f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-
-#go20{
-  color :#511A8B
 }
-#go21{
-  color :#511A8B
-}
-
-/*#go15{
-  color:#2e4ead;
-}
-
-#go21{
-  color:#2e4ead;
-}
-
-#go20{
-  color:#2e4ead;
-}
-
-
-#go18{
-  color:#2e4ead;
-} */
-
-
-
-
-
-
-
-
 

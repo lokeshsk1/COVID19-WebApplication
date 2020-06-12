@@ -23,9 +23,8 @@ $(document).ready(function(){
       <h5><b>${element.district}</b></h5>
     </div>
     <br>
-    <p class="mb-1"><i class="fas fa-phone-alt" style="margin-right: 15px;"> </i>    Emergency Number : ${element.emergency_number}</p>
+    <p class="mb-1"><i class="fas fa-phone-volume" style="margin-right: 15px;"> </i>    Emergency Number : ${element.emergency_number}</p>
     <p class="mb-1"><i class="fas fa-phone-alt" style="margin-right: 15px;"> </i>    LandLine Number : ${element.landline_number}</p>
     </div>`;
-    });
-
+    });   
 });

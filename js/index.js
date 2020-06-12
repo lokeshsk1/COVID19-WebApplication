@@ -27,7 +27,7 @@
     logout.addEventListener('click', e=>{
         //get details 
         const auth = firebase.auth().signOut();  
-        window.location = "login.html";
+        window.location = "signinwithphno.html";
         
     })
       
@@ -37,6 +37,7 @@
         }
         else{
             console.log('not logged in');
+            window.location = "signinwithphno.html";
         }
 
     });

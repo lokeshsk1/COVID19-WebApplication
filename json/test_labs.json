@@ -1,0 +1,194 @@
+{
+  "data": [
+      {
+          "name": "King Institute of Preventive Medicine & Research",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "Madras Medical College",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "Stanley Medical College",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Kilpauk Medical College",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "National Institute for Research in Tuberculosis",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "State Public Health Laboratory",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "National Institute of Epidemiology",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "Dr. MGR Medical University",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "Dr. ALM PG Institute of Basic Medical Sciences",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Medical College & Hospital, Omandurar Govt. Estate",
+          "location": "Chennai",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Theni Medical College",
+          "location": "Theni",
+          "type": "Government"
+      },
+      {
+          "name": "Tirunelveli Medical College",
+          "location": "Tirunelveli",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Medical College",
+          "location": "Thiruvarur",
+          "type": "Government"
+      },
+      {
+          "name": "Kumar Mangalam Govt. Medical College",
+          "location": "Salem",
+          "type": "Government"
+      },
+      {
+          "name": "Coimbatore Medical College",
+          "location": "Coimbatore",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Medical College & ESIC Hospital",
+          "location": "Coimbatore",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Medical College",
+          "location": "Villupuram",
+          "type": "Government"
+      },
+      {
+          "name": "Madurai Medical College",
+          "location": "Madurai",
+          "type": "Government"
+      },
+      {
+          "name": "K A P Viswanatham Govt. Medical College",
+          "location": "Trichy",
+          "type": "Government"
+      },
+      {
+          "name": "Perundurai Medical College",
+          "location": "Perundurai",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Dharmapuri Medical College",
+          "location": "Dharmapuri",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Medical College",
+          "location": "Vellore",
+          "type": "Government"
+      },
+      {
+          "name": "Thanjavur Medical College",
+          "location": "Thanjavur",
+          "type": "Government"
+      },
+      {
+          "name": "Kanyakumari Govt. Medical College",
+          "location": "Nagercoil",
+          "type": "Government"
+      },
+      {
+          "name": "Govt. Thoothukudi Medical College",
+          "location": "Thoothukudi",
+          "type": "Government"
+      },
+      {
+          "name": "Institute of Vector Control & Zoonoses",
+          "location": "Hosur",
+          "type": "Government"
+      },
+      {
+          "name": "Dept. of Clinical Virology, CMC",
+          "location": "Vellore",
+          "type": "Private"
+      },
+      {
+          "name": "Department of Laboratory Services, Apollo Hospitals Enterprise Ltd",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Neuberg Ehrlich Lab Pvt Ltd, 46-48 Masilamani Road, Balaji Nagar",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Sri Ramachandra Medical College & Research Institute, Porur",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Microbiology Lab, Veerakeralam Road",
+          "location": "Coimbatore",
+          "type": "Private"
+      },
+      {
+          "name": "YRG CARE, Taramani",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Hitech Diagnostic Centre- A Unit of Dr. Ganesan’s Hitech Diagnostic Centre PVt Ltd, Poonamallee High Road",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "MIOT Hospitals – Dept of Lab Medicine,4/112, Mount Poonamallee Road, Manapakkam",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Madras Medical Mission Clinical Lab Services, 4-A, Dr. J. Jayalalitha Nagar, Mogappair East",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Madras Medical Mission Clinical Lab Services, 4-A, Dr. J. Jayalalitha Nagar, Mogappair East",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Medall Healthcare Pvt Ltd, 17, Race View Colony, 2nd street, Race Course Road, Guindy",
+          "location": "Chennai",
+          "type": "Private"
+      },
+      {
+          "name": "Meenakshi Labs Madurai A unit of Sunmed Healthcare Pvt Ltd, 2nd Floor, Meenakshi Mission Hospital and Research Centre",
+          "location": "Madurai",
+          "type": "Private"
+      }
+  ]
+}

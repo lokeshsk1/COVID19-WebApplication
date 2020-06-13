@@ -1,12 +1,12 @@
 $(document).ready(function(){
     const listgrp=document.getElementById("lstgrp");
     
-    var tollfree = (function() {
+    var testlabs = (function() {
         var json = null;
         $.ajax({
           'async': false,
           'global': false,
-          'url': "json/tollfree_numbers.json",
+          'url': "json/test_labs.json",
           'dataType': "json",
           'success': function(data) {
             json = data;
@@ -14,17 +14,18 @@ $(document).ready(function(){
         }); 
         return json;
       })();
-    
-    tollnums =  tollfree.tollnumbers
+
+    tollnums =  testlabs.data;
+    console.log(testlabs);
     tollnums.forEach(element => { 
     listgrp.innerHTML+=
     `<div class="list-group-item list-group-item-action flex-column align-items-start " style="padding-bottom: 20px;">
     <div class="d-flex w-100 justify-content-between">
-      <h5><b>${element.district}</b></h5>
+      <h5><b>${element.name}</b></h5>
     </div>
     <br>
-    <p class="mb-1"><i class="fas fa-phone-alt" style="margin-right: 15px;"> </i>    Emergency Number : ${element.emergency_number}</p>
-    <p class="mb-1"><i class="fas fa-phone-alt" style="margin-right: 15px;"> </i>    LandLine Number : ${element.landline_number}</p>
+    <p class="mb-1"><i class="fas fa-map-marker" style="margin-right: 15px;"> </i>   ${element.location}</p>
+    <p class="mb-1"><i class="fas fa-tag" style="margin-right: 15px;"> </i>   ${element.type}</p>
     </div>`;
     });   
 });

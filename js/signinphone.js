@@ -1,6 +1,6 @@
 window.onload = function(){
-    //document.getElementById('pin').style.visibility= 'hidden';
-    //document.getElementById('signinbutton').style.visibility = 'hidden';
+    document.getElementById('pin').style.visibility= 'hidden';
+    document.getElementById('signinbutton').style.visibility = 'hidden';
     var firebaseConfig= (function() {
         var json = null;
         $.ajax({
@@ -23,7 +23,11 @@ function render(){
 }
 
 function phoneAuth(){
-    var phoneNumber = document.getElementById('phno').value;
+    var phoneNumber =document.getElementById('phno').value;
+    if (phoneNumber[0]!=="+"){
+        phoneNumber="+91"+phoneNumber;
+    }
+    console.log(phoneNumber);
     firebase.auth().signInWithPhoneNumber(phoneNumber,window.recaptchaVerifier).then(function(confirmationResult){
         window.confirmationResult = confirmationResult
         coderesult= confirmationResult;

@@ -12,8 +12,9 @@
 <body>
     
     <div class="login-container d-flex align-items-center justify-content-center">
-        <form class="login-form text-center">
-            <h1 class="mb-5 font-weight-light text-uppercase">Sign-in</h1>
+    <div >
+        <div class="login-form text-center">
+            <h1 class="mb-5  ">Sign-in</h1>
         <div class="form-group">
            <input type="text" id="phno" class="form-control rounded-pill form-control-lg" placeholder="Phone Number">
         </div>
@@ -21,13 +22,14 @@
            <input type="text" id="pin" class="form-control rounded-pill form-control-lg" placeholder="Pin">
          </div>
 
-         <div id="recaptcha-container"></div>
+         <div id="recaptcha-container" class="adj d-flex align-items-center "></div>
          <div class="adj d-flex align-items-center justify-content-between">
 
-        <button type="submit" id="otp" onclick="phoneAuth()" class="btn mt-2 btn-primary btn-block text-uppercase rounded-pill btn-lg">Send OTP</button>
-        <button type="submit" id="signinbutton" onclick="codeVerify()" class="btn mt-2 btn-primary btn-block text-uppercase rounded-pill btn-lg">Sign in</button>
-         </form>
+        <button  id="otp" onclick="phoneAuth()" class="btn mt-2 btn-primary btn-block text-uppercase rounded-pill btn-lg">Send OTP</button>
+        <button  id="signinbutton" onclick="codeVerify()" class="btn mt-2 btn-primary btn-block text-uppercase rounded-pill btn-lg">Sign in</button>
          </div>
+         </div>
+    </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

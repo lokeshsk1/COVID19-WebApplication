@@ -1,6 +1,6 @@
 window.onload = function(){
-    document.getElementById('pin').style.visibility= 'hidden';
-    document.getElementById('signinbutton').style.visibility = 'hidden';
+    //document.getElementById('pin').style.visibility= 'hidden';
+    //document.getElementById('signinbutton').style.visibility = 'hidden';
     var firebaseConfig= (function() {
         var json = null;
         $.ajax({

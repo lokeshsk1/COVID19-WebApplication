@@ -1,0 +1,1814 @@
+{
+    "dccc": [
+        {
+            "sno": "1",
+            "district": "Ariyalur",
+            "hospital": "COVID care clinic - Slum clearance board",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "2",
+            "district": "Chennai",
+            "hospital": "SIDDHA CENTRAL RESEARCH INSTITUTE",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "3",
+            "district": "Dharmapuri",
+            "hospital": "GOVT ENGINEERING COLLEGE CHETTIKARAI",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "4",
+            "district": "Kallakurichi",
+            "hospital": "Model School (A.Kumaramangalam)",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "5",
+            "district": "Kallakurichi",
+            "hospital": "Mahabarathi Engineering college",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "6",
+            "district": "Karur",
+            "hospital": "RMSA Hostel",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "7",
+            "district": "Karur",
+            "hospital": "Government Polytechnic College",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "8",
+            "district": "Karur",
+            "hospital": "Velammal Cbse School",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "9",
+            "district": "Karur",
+            "hospital": "Chettinad Engineering College, Puliyur",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "10",
+            "district": "Karur",
+            "hospital": "Subasakthi College",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "11",
+            "district": "Karur",
+            "hospital": "M.Kumarasamy Engineering College, Thalavapala",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "12",
+            "district": "Karur",
+            "hospital": "Jairam Arts And Science College",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "13",
+            "district": "Karur",
+            "hospital": "District Institute For Education And Training Host",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "14",
+            "district": "Karur",
+            "hospital": "Government Arts College",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "15",
+            "district": "Karur",
+            "hospital": "Surabhi Nursing College",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "16",
+            "district": "Karur",
+            "hospital": "MBC Hostel Boys",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "17",
+            "district": "The Nilgiris",
+            "hospital": "Military Pre Primary School",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "18",
+            "district": "The Nilgiris",
+            "hospital": "Military KVS School",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "19",
+            "district": "The Nilgiris",
+            "hospital": "Laid Law School Hospital Set Up",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "20",
+            "district": "The Nilgiris",
+            "hospital": "Laid Law School",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "21",
+            "district": "The Nilgiris",
+            "hospital": "Good Shepered School",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "22",
+            "district": "The Nilgiris",
+            "hospital": "Lawrence School",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "23",
+            "district": "The Nilgiris",
+            "hospital": "Govrnment BC Girls Hostel",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "24",
+            "district": "The Nilgiris",
+            "hospital": "Government BC Boys Hostel",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "25",
+            "district": "Thiruvallur",
+            "hospital": "Police Traning School",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "26",
+            "district": "Thiruvallur",
+            "hospital": "GRT Engineering College, Tiruttani",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "27",
+            "district": "Thiruvallur",
+            "hospital": "Deenadayalan Building",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "28",
+            "district": "Tiruchirappalli",
+            "hospital": "BHEL Main Hospital, Hpbp, Trichy",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        },
+        {
+            "sno": "29",
+            "district": "Vellore",
+            "hospital": "BHEL Hospital, BAP Ranipet",
+            "type": "Cat. III - Dedicated COVID Center / DCCC"
+        }
+    ],
+    "dchc": [
+        {
+            "sno": "1",
+            "district": "Ariyalur",
+            "hospital": "Jayamkondan_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "2",
+            "district": "Ariyalur",
+            "hospital": "Golden Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "3",
+            "district": "Chennai",
+            "hospital": "CSI Kalyani General Hospital, Chennai Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "4",
+            "district": "Chennai",
+            "hospital": "GEM Hospital And Research Ctr Pvt.Ltd,Chennai Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "5",
+            "district": "Chennai",
+            "hospital": "Kavery Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "6",
+            "district": "Chennai",
+            "hospital": "Prashanth Hospital Velachery Chennai Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "7",
+            "district": "Coimbatore",
+            "hospital": "Mettupalayam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "8",
+            "district": "Coimbatore",
+            "hospital": "G. Kuppusamy Naidu Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "9",
+            "district": "Cuddalore",
+            "hospital": "Subha Anandham Medical Centre,Cuddalore,Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "10",
+            "district": "Dharmapuri",
+            "hospital": "Harur _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "11",
+            "district": "Dharmapuri",
+            "hospital": "Supa Hospital, Pvt.Ltd, Dharmapuri Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "12",
+            "district": "Dharmapuri",
+            "hospital": "Om Sakthi Hospital,Dharmapuri Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "13",
+            "district": "Dharmapuri",
+            "hospital": "DNV Polyclinic,Dharmapuri Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "14",
+            "district": "Dindigul",
+            "hospital": "Kodaikanal_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "15",
+            "district": "Kallakurichi",
+            "hospital": "Ulundurpet_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "16",
+            "district": "Kallakurichi",
+            "hospital": "Tirukoilur_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "17",
+            "district": "Kancheepuram",
+            "hospital": "Sriperumputhur_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "18",
+            "district": "Kancheepuram",
+            "hospital": "Walajabad_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "19",
+            "district": "Kancheepuram",
+            "hospital": "Uthiramerur_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "20",
+            "district": "Kanyakumari",
+            "hospital": "Holy Cross Hospital, Kanyakumari Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "21",
+            "district": "Karur",
+            "hospital": "Apollo Logo Hospital,Karur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "22",
+            "district": "Karur",
+            "hospital": "Amaravathi Hospital,Karur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "23",
+            "district": "Krishnagiri",
+            "hospital": "Kauvery Hospital, Hosur,Krishnagiri Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "24",
+            "district": "Krishnagiri",
+            "hospital": "Chandrasekara Hospital, Hosur, Krishnagiri Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "25",
+            "district": "Madurai",
+            "hospital": "Tirumangalam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "26",
+            "district": "Madurai",
+            "hospital": "Melur _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "27",
+            "district": "Madurai",
+            "hospital": "Devadoss Multispeciality Hospital.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "28",
+            "district": "Madurai",
+            "hospital": "Lakshmana Multispeciality Hospital.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "29",
+            "district": "Madurai",
+            "hospital": "Rahavendhar Hospital.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "30",
+            "district": "Madurai",
+            "hospital": "Saravana Hospital.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "31",
+            "district": "Nagapattinam",
+            "hospital": "Arun Priya Nursing Home, Nagapattinam Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "32",
+            "district": "Nagapattinam",
+            "hospital": "Ram Bone And Joint Hospial,Nagapattinam Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "33",
+            "district": "Nagapattinam",
+            "hospital": "Shanthi Nursing Home, Nagapattinam",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "34",
+            "district": "Nagapattinam",
+            "hospital": "Vishnu Hospital , Nagappattinam Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "35",
+            "district": "Namakkal",
+            "hospital": "Tiruchengode_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "36",
+            "district": "Namakkal",
+            "hospital": "Gh,Rasipuram _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "37",
+            "district": "Namakkal",
+            "hospital": "Aravinth Hospital,Rangar Sannadhi Str,Namakkal Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "38",
+            "district": "Namakkal",
+            "hospital": "M.M.Hospital,Namakkal Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "39",
+            "district": "Namakkal",
+            "hospital": "Maharaja Speciality Hosp Mohanur Road,Namakkal Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "40",
+            "district": "Nilgiris",
+            "hospital": "Nankam Hospital,Nilgiris Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "41",
+            "district": "Nilgiris",
+            "hospital": "Sagayamatha Hospital, Nilgiris Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "42",
+            "district": "Perambalur",
+            "hospital": "Lakshmi Nursing Home",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "43",
+            "district": "Pudukkottai",
+            "hospital": "Viralimalai_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "44",
+            "district": "Pudukkottai",
+            "hospital": "Muthu Meenakshi Hospitals",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "45",
+            "district": "Pudukkottai",
+            "hospital": "Sree Durga Surgical Clinic & Research Center",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "46",
+            "district": "Ramanathapuram",
+            "hospital": "Paramakudi _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "47",
+            "district": "Ramanathapuram",
+            "hospital": "Aasi  Multi Speciality Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "48",
+            "district": "Ramanathapuram",
+            "hospital": "Kanagamani Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "49",
+            "district": "Salem",
+            "hospital": "Athur _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "50",
+            "district": "Salem",
+            "hospital": "Omalur_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "51",
+            "district": "Salem",
+            "hospital": "Edapadi_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "52",
+            "district": "Salem",
+            "hospital": "Kurinji Hospital,Salem Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "53",
+            "district": "Salem",
+            "hospital": "SPMM Hospital Ammapet, Salem Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "54",
+            "district": "Sivagangai",
+            "hospital": "Devakottai_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "55",
+            "district": "Sivagangai",
+            "hospital": "Senthil Hospital,Sivagangai Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "56",
+            "district": "Sivagangai",
+            "hospital": "Apollo Hospitals,Sivagangai Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "57",
+            "district": "Thanjavur",
+            "hospital": "Papanasam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "58",
+            "district": "Thanjavur",
+            "hospital": "Thiruvaiyaru_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "59",
+            "district": "Thanjavur",
+            "hospital": "Anbu Hospital,Thanjavur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "60",
+            "district": "Thanjavur",
+            "hospital": "Meenakshi Multispeciality Hospital Thanjavur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "61",
+            "district": "Thanjavur",
+            "hospital": "KG Multi Speciality Hospital,Thanjavur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "62",
+            "district": "Thanjavur",
+            "hospital": "Diocese Of Thanjavur Society Olh, Thanjavur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "63",
+            "district": "The Nilgiris",
+            "hospital": "Connoor_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "64",
+            "district": "Theni",
+            "hospital": "Cumbum_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "65",
+            "district": "Theni",
+            "hospital": "NRT Hospital Private,Theni Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "66",
+            "district": "Theni",
+            "hospital": "Krishnammal Memorial Hospital,Theni Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "67",
+            "district": "Theni",
+            "hospital": "T N K H N V Hospital, Theni Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "68",
+            "district": "Thiruvallur",
+            "hospital": "Tiruthani _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "69",
+            "district": "Thiruvallur",
+            "hospital": "Ponneri_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "70",
+            "district": "Thiruvallur",
+            "hospital": "Sugam Hospital, Thiruvallur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "71",
+            "district": "Thiruvallur",
+            "hospital": "Aakash Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "72",
+            "district": "Thiruvarur",
+            "hospital": "Thiruthuraipoondi _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "73",
+            "district": "Thoothukudi",
+            "hospital": "Kayalpattinam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "74",
+            "district": "Thoothukudi",
+            "hospital": "Tiruchendur_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "75",
+            "district": "Tiruchirappalli",
+            "hospital": "Srirangam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "76",
+            "district": "Tirunelveli",
+            "hospital": "Shengottah_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "77",
+            "district": "Tirunelveli",
+            "hospital": "Kudankulam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "78",
+            "district": "Tirunelveli",
+            "hospital": "Sankaran Kovil_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "79",
+            "district": "Tirunelveli",
+            "hospital": "Galaxy Hospital, Tirunelveli Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "80",
+            "district": "Tirunelveli",
+            "hospital": "Ponra Multispeciality Hospital, Tirunelveli Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "81",
+            "district": "Tirunelveli",
+            "hospital": "Shifa Hospital, Tirunelveli Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "82",
+            "district": "Tirupathur",
+            "hospital": "Ambur_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "83",
+            "district": "Tirupathur",
+            "hospital": "Natrampalli_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "84",
+            "district": "Tirupathur",
+            "hospital": "Vaniyambadi_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "85",
+            "district": "Tiruppur",
+            "hospital": "Dharapuram_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "86",
+            "district": "Tiruppur",
+            "hospital": "Palladam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "87",
+            "district": "Tiruppur",
+            "hospital": "Revathi Medical Centre, Tirupur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "88",
+            "district": "Tiruppur",
+            "hospital": "Sri Kumaran Hospital, Tirupur Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "89",
+            "district": "Thiruvarur",
+            "hospital": "Navajeevan Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "90",
+            "district": "Thiruvarur",
+            "hospital": "Thiruvarur Medical Centre",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "91",
+            "district": "Tiruchirappalli",
+            "hospital": "Maruti Hospital,Thennur,Trichy Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "92",
+            "district": "Tiruchirappalli",
+            "hospital": "Sinduja Hospital,Manaparai,Trichy Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "93",
+            "district": "Thoothukudi",
+            "hospital": "AVM Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "94",
+            "district": "Thoothukudi",
+            "hospital": "Sacred Heart Hospital,Tuticorin Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "95",
+            "district": "Vellore",
+            "hospital": "Pentland _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "96",
+            "district": "Villupuram",
+            "hospital": "Tindivanam_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "97",
+            "district": "Villupuram",
+            "hospital": "Gingee_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "98",
+            "district": "Villupuram",
+            "hospital": "E.S. Hospital",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "99",
+            "district": "Villupuram",
+            "hospital": "I Med Super Speciality Hospitals Villupuram Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "100",
+            "district": "Villupuram",
+            "hospital": "Maragadam Hospitalvillupuram Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "101",
+            "district": "Villupuram",
+            "hospital": "Sri Sanjeevi Hospital Kallakurichi",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "102",
+            "district": "Virudhunagar",
+            "hospital": "Sivakasi _SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "103",
+            "district": "Virudhunagar",
+            "hospital": "Sathur_SDH",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "104",
+            "district": "Virudhunagar",
+            "hospital": "City Hospital, Aruppukottai, Virudhunagar Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        },
+        {
+            "sno": "105",
+            "district": "Virudhunagar",
+            "hospital": "Sri Krishna Hospital,Rajapalayam, Virudhunagar Tn.",
+            "type": "Cat. II - Dedicated COVID Health Center / DCHC"
+        }
+    ],
+    "dch": [
+        {
+            "sno": "1",
+            "district": "Ariyalur",
+            "hospital": "Govt. Medical College Hospital, Ariyalur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "2",
+            "district": "Ariyalur",
+            "hospital": "A.S Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "3",
+            "district": "Chengalpattu",
+            "hospital": "Govt. Medical College Hospital at Chengalpattu",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "4",
+            "district": "Chengalpattu",
+            "hospital": "Govt. T.B. Hospital, Tambaram",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "5",
+            "district": "Chengalpattu",
+            "hospital": "Govt. Hospital Tambaram at Chrompet",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "6",
+            "district": "Chengalpattu",
+            "hospital": "Shri Sathya Sai Medical College And Research Institute.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "7",
+            "district": "Chengalpattu",
+            "hospital": "Sree Balaji Medical College & Hospital, Chromepet, Chennai-44",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "8",
+            "district": "Chengalpattu",
+            "hospital": "SRM Medical College Hospital &Research Centre",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "9",
+            "district": "Chengalpattu",
+            "hospital": "Karpaga Vinayaga Institute Of Medical Sciences & Research Centre",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "10",
+            "district": "Chengalpattu",
+            "hospital": "Bharath Medical College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "11",
+            "district": "Chengalpattu",
+            "hospital": "Rela Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "12",
+            "district": "Chennai",
+            "hospital": "Govt. Medical College Hospital, Omandurar Govt. Estate, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "13",
+            "district": "Chennai",
+            "hospital": "Rajiv Gandhi Govt. General Hospital, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "14",
+            "district": "Chennai",
+            "hospital": "Govt. Stanley Hospital, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "15",
+            "district": "Chennai",
+            "hospital": "Kilpauk Medical College Hospital, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "16",
+            "district": "Chennai",
+            "hospital": "Govt. RSRM Hospital, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "17",
+            "district": "Chennai",
+            "hospital": "Institute of Child Health, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "18",
+            "district": "Chennai",
+            "hospital": "Institute of Obsterics and Gynaecoloy, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "19",
+            "district": "Chennai",
+            "hospital": "Govt. Royapettah Hospital, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "20",
+            "district": "Chennai",
+            "hospital": "Kasturba Gandhi Govt. Hospital, Chennai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "21",
+            "district": "Chennai",
+            "hospital": "ESI K.K.Nagar",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "22",
+            "district": "Chennai",
+            "hospital": "ESI Ayanavaram",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "23",
+            "district": "Chennai",
+            "hospital": "National Centre Of Ageing King Institute",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "24",
+            "district": "Chennai",
+            "hospital": "Billroth Hospitals Shenoy Nagar, Chennai Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "25",
+            "district": "Chennai",
+            "hospital": "Kanchi Kamakoti Child Trust Hospital ,Chennai Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "26",
+            "district": "Chennai",
+            "hospital": "Dr Kamakshi Memorial Hospital,Kancheepuram Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "27",
+            "district": "Chennai",
+            "hospital": "MIOT Hospital, Kancheepuram Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "28",
+            "district": "Chennai",
+            "hospital": "Voluntary Health Services Tharamani Chennai Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "29",
+            "district": "Chennai",
+            "hospital": "Prime Indian Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "30",
+            "district": "Chennai",
+            "hospital": "Venkateswara Hospital,Nanadanam",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "31",
+            "district": "Chennai",
+            "hospital": "NOBLE HOSPITAL,CHENNAI TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "32",
+            "district": "Coimbatore",
+            "hospital": "Govt. Medical College Hospital, Coimbatore (CMCH)",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "33",
+            "district": "Coimbatore",
+            "hospital": "ESI Medical College Hospital, Coimbatore",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "34",
+            "district": "Coimbatore",
+            "hospital": "District Head Qtr. Hospital, Pollachi (DHQS)",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "35",
+            "district": "Coimbatore",
+            "hospital": "Karpagam Faculty Medical College And  Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "36",
+            "district": "Coimbatore",
+            "hospital": "Kovai Medical College Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "37",
+            "district": "Coimbatore",
+            "hospital": "PSG Institute Of Medical Sciences & Research, Coimbatore",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "38",
+            "district": "Coimbatore",
+            "hospital": "Sri Ramakrishna Hospital,Coimbatore Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "39",
+            "district": "Coimbatore",
+            "hospital": "KG Hospital,Coimbatore Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "40",
+            "district": "Coimbatore",
+            "hospital": "Kongunad Hospital,Coimbatore Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "41",
+            "district": "Coimbatore",
+            "hospital": "One Care Medical Centre, Coimbatore TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "42",
+            "district": "Coimbatore",
+            "hospital": "Royal Care Super Specialty Hospital,Coimbatore TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "43",
+            "district": "Coimbatore",
+            "hospital": "GEM Hospital And Research Ctr,Coimbatore Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "44",
+            "district": "Coimbatore",
+            "hospital": "Royal care Super Speciality hospital coimbatore,Neelampur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "45",
+            "district": "Cuddalore",
+            "hospital": "Rajah Muthiah Medical College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "46",
+            "district": "Cuddalore",
+            "hospital": "Government Head Quarters Hospital, Cuddalore",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "47",
+            "district": "Cuddalore",
+            "hospital": "Vridhachalam_SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "48",
+            "district": "Cuddalore",
+            "hospital": "Chidambaram _SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "49",
+            "district": "Cuddalore",
+            "hospital": "Krishna Hospital, Cuddalore Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "50",
+            "district": "Dharmapuri",
+            "hospital": "Govt. Medical College - Dharmapuri",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "51",
+            "district": "Dindigul",
+            "hospital": "Govt. Medical College and Hospital in Dindigul.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "52",
+            "district": "Dindigul",
+            "hospital": "Gh, Palani _SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "53",
+            "district": "Dindigul",
+            "hospital": "Christian Fellow Community Centre,Dindigul Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "54",
+            "district": "Dindigul",
+            "hospital": "Leonard Hospital, Dindigul Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "55",
+            "district": "Dindigul",
+            "hospital": "St.Joseph Hospital, Dindigul",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "56",
+            "district": "Dindigul",
+            "hospital": "Christian Fellowship Hospital,Dindigul TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "57",
+            "district": "Erode",
+            "hospital": "Sudha Hospitals Perundurai Road, Erode Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "58",
+            "district": "Erode",
+            "hospital": "Erode Medical Centre, Perundurai Road, Erode Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "59",
+            "district": "Erode",
+            "hospital": "Care 24 Medical Centre And Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "60",
+            "district": "Erode",
+            "hospital": "City Hospital,Erode TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "61",
+            "district": "Erode",
+            "hospital": "K.B.N Nursing Home,Krishna Theatre Road,Erode TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "62",
+            "district": "Erode",
+            "hospital": "Govt. Medical College Hospital, Perundurai, Erode",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "63",
+            "district": "Erode",
+            "hospital": "Govt. Head Quarters Hospital, Erode",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "64",
+            "district": "Kallakurichi",
+            "hospital": "Govt. District Head Quarters Hospital, Kallakurichi",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "65",
+            "district": "Kancheepuram",
+            "hospital": "District Head Quarters Hospital at Kancheepuram",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "66",
+            "district": "Kancheepuram",
+            "hospital": "Melmaruvathur Adhiparsakthi Medical College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "67",
+            "district": "Kancheepuram",
+            "hospital": "Panimalar Medical College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "68",
+            "district": "Kancheepuram",
+            "hospital": "Saveetha Medical College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "69",
+            "district": "Kancheepuram",
+            "hospital": "Sri Muthukumaran Med College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "70",
+            "district": "Kancheepuram",
+            "hospital": "Sri Ramachandra Medical College & Research Centre",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "71",
+            "district": "Kancheepuram",
+            "hospital": "Tagore Medical College And Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "72",
+            "district": "Kancheepuram",
+            "hospital": "HINDU MISSION HOSPITAL,KANCHEEPURAM TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "73",
+            "district": "Kancheepuram",
+            "hospital": "Gleneagles Global Health City, Kancheepuram TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "74",
+            "district": "Kancheepuram",
+            "hospital": "Madha Medical College & Research Institute, Kovur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "75",
+            "district": "Kancheepuram",
+            "hospital": "Chettinad Super Speciality Hosp,Kancheepuram Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "76",
+            "district": "Kancheepuram",
+            "hospital": "Meenakshi Medical College Hospital & Research Institute, Enmathur, Ka",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "77",
+            "district": "Kanyakumari",
+            "hospital": "Govt. Medical College Hospital, Asaripallam, Kanyakumari",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "78",
+            "district": "Kanyakumari",
+            "hospital": "Sree Mookambika Institute Of Medical Sciences",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "79",
+            "district": "Kanyakumari",
+            "hospital": "Dr. Jayasekaran Medical Trust Hospital,Nagarkoil",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "80",
+            "district": "Kanyakumari",
+            "hospital": "Gerdi Agasthiyar Muni Care Centre, Kanyakumari Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "81",
+            "district": "Kanyakumari",
+            "hospital": "C.S.I Mission Hospital,Kanyakumari Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "82",
+            "district": "Kanyakumari",
+            "hospital": "Dr Morris Mathia Hospital, Kanyakumari TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "83",
+            "district": "Kanyakumari",
+            "hospital": "Vasantham Health Centre, Kanyakumari TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "84",
+            "district": "Karur",
+            "hospital": "Govt. Medical College Karur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "85",
+            "district": "Krishnagiri",
+            "hospital": "Govt. District Head Qrs.Hospital at Krishnagiri",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "86",
+            "district": "Krishnagiri",
+            "hospital": "Govt. Hospital at Hosur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "87",
+            "district": "Madurai",
+            "hospital": "Government Rajaji Hospital, Madurai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "88",
+            "district": "Madurai",
+            "hospital": "Infectious Disease Hospital, Thoppur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "89",
+            "district": "Madurai",
+            "hospital": "ESI_Madurai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "90",
+            "district": "Madurai",
+            "hospital": "Superspeciality Madurai (PMSSY)",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "91",
+            "district": "Madurai",
+            "hospital": "Velammal Medical College Hospita & Research Institute",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "92",
+            "district": "Madurai",
+            "hospital": "MEENAKSHI MISSION HOSP AND RSRCH CENTR,MADURAI TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "93",
+            "district": "Madurai",
+            "hospital": "vadamalayan hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "94",
+            "district": "Madurai",
+            "hospital": "Apollo Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "95",
+            "district": "Madurai",
+            "hospital": "Bharathi Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "96",
+            "district": "Madurai",
+            "hospital": "Devaki Speciality Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "97",
+            "district": "Nagapattinam",
+            "hospital": "Govt. Head Quarters Hospital at Nagapattinam",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "98",
+            "district": "Nagapattinam",
+            "hospital": "Govt. Hospital at Mayiladuthurai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "99",
+            "district": "Nagapattinam",
+            "hospital": "Vedaranyam_SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "100",
+            "district": "Nagapattinam",
+            "hospital": "Sirkazhi_SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "101",
+            "district": "Namakkal",
+            "hospital": "Govt. Hospital at Namakkal",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "102",
+            "district": "Namakkal",
+            "hospital": "Vivekanandha Medical Care Hospital, Namakkal Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "103",
+            "district": "Namakkal",
+            "hospital": "Thangam Hospital, Namakkal Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "104",
+            "district": "Perambalur",
+            "hospital": "Govt. District Head Quarters Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "105",
+            "district": "Perambalur",
+            "hospital": "Dhanalakshmisrinivasan Medical College And Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "106",
+            "district": "Pudukkottai",
+            "hospital": "Govt. Medical College,Pudukkottai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "107",
+            "district": "Pudukkottai",
+            "hospital": "Ranees Govt.  Hospital / OLD GH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "108",
+            "district": "Pudukkottai",
+            "hospital": "Aranthangi _DHQS",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "109",
+            "district": "Pudukkottai",
+            "hospital": "Sree Vijay Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "110",
+            "district": "Ramanathapuram",
+            "hospital": "Govt. Medical College Hospital, Ramanathapuram",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "111",
+            "district": "Ranipet",
+            "hospital": "Walajapet _DHQS",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "112",
+            "district": "Salem",
+            "hospital": "Govt. Mohan Kumaramangalam Medical College Hospital, Salem",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "113",
+            "district": "Salem",
+            "hospital": "Government District Head Quarters Hospital, Mettur.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "114",
+            "district": "Salem",
+            "hospital": "Annapoorna Medical College &Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "115",
+            "district": "Salem",
+            "hospital": "Vinyaga Mission Kirubanandha Variyar Medical College Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "116",
+            "district": "Salem",
+            "hospital": "Sri Gokulam Hospital,Salem Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "117",
+            "district": "Salem",
+            "hospital": "Dharan Hospital, Seelanaickanpatti",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "118",
+            "district": "Salem",
+            "hospital": "Manipal Hospital Dalmia Brd,Salem Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "119",
+            "district": "Salem",
+            "hospital": "SKS Hospital,Salem Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "120",
+            "district": "Salem",
+            "hospital": "Kauvery Hospital, Seelanaickenpatti, Salem Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "121",
+            "district": "Salem",
+            "hospital": "Shanmuga Hospt Cancer Ins Saradha Cll Rd,Salem Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "122",
+            "district": "Salem",
+            "hospital": "Vinayaka Mission Super Specialty Hospitals Pvt Ltd",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "123",
+            "district": "Sivagangai",
+            "hospital": "Govt. Medical College Hospital, Sivagangai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "124",
+            "district": "Sivagangai",
+            "hospital": "Karaikudi _DHQS",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "125",
+            "district": "Tenaksi",
+            "hospital": "Govt District Head Quarters Hospital , Tenkasi",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "126",
+            "district": "Thanjavur",
+            "hospital": "Govt. Medical College Hospital at Thanjavur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "127",
+            "district": "Thanjavur",
+            "hospital": "Govt. Raja Mirasudar Hospital at Thanjavur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "128",
+            "district": "Thanjavur",
+            "hospital": "Govt. Head Quarters Hospital at Kumbakonam",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "129",
+            "district": "Thanjavur",
+            "hospital": "Pattukottai _SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "130",
+            "district": "The Nilgiris",
+            "hospital": "Govt. Medical College Hospital, Udhagamandalam",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "131",
+            "district": "Theni",
+            "hospital": "Govt. Medical College, Theni",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "132",
+            "district": "Theni",
+            "hospital": "Governement Hospital NRT, Theni",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "133",
+            "district": "Theni",
+            "hospital": "Periyakulam _DHQS",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "134",
+            "district": "Thiruvallur",
+            "hospital": "Govt. Medical College and Hospital Thiruvallur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "135",
+            "district": "Thiruvallur",
+            "hospital": "A.C.S.  Medical College And Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "136",
+            "district": "Thiruvallur",
+            "hospital": "Dr Mehtas Hospitals Velampanchavady ,Chennai Tn. New Unit",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "137",
+            "district": "Thiruvallur",
+            "hospital": "Apollo Hospitals Ayyanambakkam,Thiruvallur Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "138",
+            "district": "Thiruvannamalai",
+            "hospital": "Govt. Medical College Hospital, Thiruvannamalai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "139",
+            "district": "Thiruvannamalai",
+            "hospital": "Thiruvannamalai (Old)",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "140",
+            "district": "Thiruvarur",
+            "hospital": "Govt. Medical College Hospital at Thiruvarur",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "141",
+            "district": "Thiruvarur",
+            "hospital": "Mannargudi_DHQS",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "142",
+            "district": "Thoothukudi",
+            "hospital": "Govt. Medical college Hospital, Thoothukudi",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "143",
+            "district": "Thoothukudi",
+            "hospital": "Govt District Head Quarters Hospital , Kovilpatti",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "144",
+            "district": "Tirunelveli",
+            "hospital": "Govt. Medical College Hospital, Tirunelveli",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "145",
+            "district": "Tirupathur",
+            "hospital": "Tirupathur _SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "146",
+            "district": "Tiruppur",
+            "hospital": "Govt. Medical College Hospital, Tiruppur (TMC)",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "147",
+            "district": "Tiruppur",
+            "hospital": "Govt. Hospital, Udumalai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "148",
+            "district": "Thiruvannamalai",
+            "hospital": "Ramana Maharishi Hospital, Thiruvannamalai Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "149",
+            "district": "Thiruvannamalai",
+            "hospital": "Cheyyar _DHQS",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "150",
+            "district": "Tiruchirappalli",
+            "hospital": "KAPV Government Medical College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "151",
+            "district": "Tiruchirappalli",
+            "hospital": "Govt. District Head Quarters Hospital, Manapparai",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "152",
+            "district": "Tiruchirappalli",
+            "hospital": "Trichy Srm Medical College Hospital And Research Centre",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "153",
+            "district": "Tiruchirappalli",
+            "hospital": "Kavery Medical Centre And Hospital, Trichy Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "154",
+            "district": "Tiruchirappalli",
+            "hospital": "Apollo Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "155",
+            "district": "Thoothukudi",
+            "hospital": "Sri Hospitals",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "156",
+            "district": "Vellore",
+            "hospital": "Govt. Vellore Medical College and Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "157",
+            "district": "Vellore",
+            "hospital": "Christian Medical College",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "158",
+            "district": "Vellore",
+            "hospital": "Scudder Hospital,Vellore Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "159",
+            "district": "Vellore",
+            "hospital": "Sri Narayani Hospital And Res Ctr,Vellore Tn.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "160",
+            "district": "Villupuram",
+            "hospital": "Govt. Villupuram Medical College and Hospital",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "161",
+            "district": "Villupuram",
+            "hospital": "Spl. Hospital for COVID -19 at Villupuram (Old GH)",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "162",
+            "district": "Villupuram",
+            "hospital": "S A Hospital, Sankarapuram, Villupuram TN.",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "163",
+            "district": "Villupuram",
+            "hospital": "Annai Medical Centre",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "164",
+            "district": "Villupuram",
+            "hospital": "Lotus Paediatric Emergency Centre",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "165",
+            "district": "Virudhunagar",
+            "hospital": "Govt. Medical College Hospital, Virudhunagar",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "166",
+            "district": "Virudhunagar",
+            "hospital": "Rajapalayam_SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        },
+        {
+            "sno": "167",
+            "district": "Virudhunagar",
+            "hospital": "Aruppukottai_SDH",
+            "type": "Cat. I - Dedicated COVID Hospitals / DCH"
+        }
+    ]
+}

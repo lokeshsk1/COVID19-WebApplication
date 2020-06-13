@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "code": "1",
+            "ware_house": "KANCHEEPURAM",
+            "mobile": "9940188250"
+        },
+        {
+            "code": "2",
+            "ware_house": "VELLORE",
+            "mobile": "9940188265"
+        },
+        {
+            "code": "3",
+            "ware_house": "THIRUVANNAMALAI",
+            "mobile": "9940188259"
+        },
+        {
+            "code": "4",
+            "ware_house": "CUDDALORE",
+            "mobile": "9940188244"
+        },
+        {
+            "code": "5",
+            "ware_house": "DHARMAPURI",
+            "mobile": "9940188248"
+        },
+        {
+            "code": "6",
+            "ware_house": "SALEM",
+            "mobile": "9940188257"
+        },
+        {
+            "code": "7",
+            "ware_house": "PERUNDURAI",
+            "mobile": "9940188254"
+        },
+        {
+            "code": "8",
+            "ware_house": "COIMBATORE",
+            "mobile": "9940188245"
+        },
+        {
+            "code": "9",
+            "ware_house": "THE NILGRIS",
+            "mobile": "9940188253"
+        },
+        {
+            "code": "10",
+            "ware_house": "THIRUCHIRAPPALLI",
+            "mobile": "9940188260"
+        },
+        {
+            "code": "11",
+            "ware_house": "PUDUKKOTTAI",
+            "mobile": "9940188255"
+        },
+        {
+            "code": "12",
+            "ware_house": "DINDIGUL",
+            "mobile": "9940188249"
+        },
+        {
+            "code": "13",
+            "ware_house": "MADURAI",
+            "mobile": "9940188251"
+        },
+        {
+            "code": "14",
+            "ware_house": "VIRUDHUNAGAR",
+            "mobile": "9940188268"
+        },
+        {
+            "code": "15",
+            "ware_house": "SIVAGANGAI",
+            "mobile": "9940188258"
+        },
+        {
+            "code": "16",
+            "ware_house": "RAMANATHAPURAM",
+            "mobile": "9940188256"
+        },
+        {
+            "code": "17",
+            "ware_house": "THIRUNELVELI",
+            "mobile": "9940188261"
+        },
+        {
+            "code": "18",
+            "ware_house": "THOOTHUKKUDI",
+            "mobile": "9940188262"
+        },
+        {
+            "code": "19",
+            "ware_house": "NAGERCOIL",
+            "mobile": "9940188252"
+        },
+        {
+            "code": "20",
+            "ware_house": "THANJAVUR",
+            "mobile": "9940188263"
+        },
+        {
+            "code": "21",
+            "ware_house": "VILLUPURAM",
+            "mobile": "9940188267"
+        },
+        {
+            "code": "22",
+            "ware_house": "Anna Nagar, Chennai",
+            "mobile": "9940188246"
+        },
+        {
+            "code": "23",
+            "ware_house": "THIRUVARUR",
+            "mobile": "9940188264"
+        },
+        {
+            "code": "24",
+            "ware_house": "KK Nagar, Chennai",
+            "mobile": "9940188247"
+        },
+        {
+            "code": "25",
+            "ware_house": "THENI",
+            "mobile": "9940629520"
+        },
+        {
+            "code": "26",
+            "ware_house": "PERAMBALUR",
+            "mobile": "7397741445"
+        },
+        {
+            "code": "27",
+            "ware_house": "NAMAKKAL",
+            "mobile": "7397741446"
+        },
+        {
+            "code": "28",
+            "ware_house": "KARUR",
+            "mobile": "7397741448"
+        },
+        {
+            "code": "29",
+            "ware_house": "KRISHNAGIRI",
+            "mobile": "7397741447"
+        },
+        {
+            "code": "30",
+            "ware_house": "THIRUVALLUR",
+            "mobile": "9384030320"
+        },
+        {
+            "code": "31",
+            "ware_house": "NAGAPATTINAM",
+            "mobile": "9384030322"
+        },
+        {
+            "code": "32",
+            "ware_house": "THIRUPPUR",
+            "mobile": "9842093090"
+        }
+    ]
+}

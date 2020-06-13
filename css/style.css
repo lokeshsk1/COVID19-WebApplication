@@ -220,6 +220,13 @@ body{
   height: 75px;
  
 }
+.hoverstyle{
+  margin-left: 20px;
+}
+.hoverstyle:hover{
+    font-size: 105%;
+    margin: 25px;
+}
 
 p{
   font-weight:600;

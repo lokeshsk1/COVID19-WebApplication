@@ -116,19 +116,19 @@ $(document).ready(function() {
   quiz.style.display="none";
   if(c!=0)
   {
-    alert("Please! fill-in all the details");
+    document.getElementById("result").innerHTML= "Please! fill-in all the details";
   }
   else if(a==5)
   {
-    alert("You may have an exposure to the virus,So please contact the counselor from counseling forum.");
+    document.getElementById("result").innerHTML = "You may have an exposure to the virus, so please contact the counselor from counseling forum.";
   }
   else if(b==5)
   {
-    alert("The risk of being affected is less.Stay safe in your home!");
+    document.getElementById("result").innerHTML = "The risk of being affected is less. Stay safe in your home!";
   }
   else if(a!=5 && b!=5)
   {
-    alert("You may have an exposure to the virus,So please contact the counselor from counseling forum.");
+    document.getElementById("result").innerHTML = "You may have an exposure to the virus, So please contact the counselor from counseling forum.";
   }
 
   }

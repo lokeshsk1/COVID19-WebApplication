@@ -152,9 +152,9 @@ body{
 } 
 .wrapper .container_left{
   width: (100% - 200px);
-  margin-top: 140px;
-  margin-left: 250px;
-  padding: 15px;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 10px;
   transition: all 0.3s ease;
   display: flex;
   flex-wrap: wrap;
@@ -250,6 +250,9 @@ p{
   color: linear-gradient(to right, #feb47b, #ff7e5f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
-
-
+/* 
+.vertical-left-scroll{
+  height: 90%;
+  overflow: hidden;
+} */
 

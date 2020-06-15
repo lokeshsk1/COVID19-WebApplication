@@ -17,11 +17,11 @@ $(document).ready(function(){
     
       firebase.auth().onAuthStateChanged (firebaseUser => {
         if (firebaseUser){
-            console.log(firebaseUser.email);
+            console.log(firebaseUser);
         }
         else{
             console.log('not logged in');
-            // window.location = "signinwithphno.html";
+            window.location = "signinwithphno.html";
         }
     });
     var listgrp = document.getElementById("lstgrp");

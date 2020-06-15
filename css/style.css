@@ -235,8 +235,7 @@ body{
   margin-left: 20px;
 }
 .hoverstyle:hover{
-    font-size: 105%;
-    margin: 25px;
+    margin-left: 25px;
 }
 
 p{

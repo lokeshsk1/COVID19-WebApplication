@@ -184,23 +184,23 @@ body{
   margin: 13px;
 } 
 
-.wrapper.collapse .sidebar{
+.wrapper.collapsed .sidebar{
   width: 70px;
 }
 
-.wrapper.collapse .sidebar ul li a{
+.wrapper.collapsed .sidebar ul li a{
   text-align: center; 
 }
 
-.wrapper.collapse .sidebar ul li a span.icon{
+.wrapper.collapsed .sidebar ul li a span.icon{
   margin: 0;
 }
 
-.wrapper.collapse .sidebar ul li a span.title{
+.wrapper.collapsed .sidebar ul li a span.title{
   display: none;
 }
 
-.wrapper.collapse .main_container{
+.wrapper.collapsed .main_container{
   width: (100% - 70px);
   margin-left: 70px;
 }
@@ -216,7 +216,7 @@ body{
   
 }
 
-.wrapper.collapse .tweets{
+.wrapper.collapsed .tweets{
   margin-left: 100px;
 }
 
